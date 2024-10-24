@@ -26,4 +26,5 @@ div {
   border: 15px solid grey;
   padding: 50px;
   margin: 20px;
+  overflow: hidden;
 }
