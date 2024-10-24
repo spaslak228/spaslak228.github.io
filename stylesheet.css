@@ -3,11 +3,15 @@ h1 {
     text-align: center;
 }
 
+#h2 {
+    font-size: 2em; 
+}
+
 .cat {
   color: black;
   font-family: 'times new roman';
   font-style: normal;
   font-weight: normal;
-  font-size: 20px;
+  font-size: 16px;
   font-variant: normal;
 }
