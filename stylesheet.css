@@ -22,9 +22,8 @@ a:hover {
 }
 
 div {
-  width: 300px;
+  width: 3000px;
   border: 15px solid grey;
-  padding: 50px;
+  padding: 10px;
   margin: 20px;
-  overflow: hidden;
 }
